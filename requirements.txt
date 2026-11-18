@@ -1,0 +1,16 @@
+# torch: pip install torch --index-url https://download.pytorch.org/whl/cu126 (Pascal GPU support)
+# box2d-py: needs swig and setuptools first, then: pip install --no-build-isolation box2d-py
+box2d-py==2.3.8
+gymnasium==1.4.0
+ImageIO==2.38.2
+jupyter==1.1.1
+matplotlib==3.11.2
+nbconvert==7.17.2
+numpy==2.5.5
+opencv-python-headless==5.1.0.95
+pandas==3.1.1
+pygame-ce==2.5.8
+swig==4.5.1
+tensorboard==2.21.0
+torch==2.14.1+cu126
+tyro==1.0.17
