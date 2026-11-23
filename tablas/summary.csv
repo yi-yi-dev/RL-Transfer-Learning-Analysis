@@ -1,0 +1,6 @@
+modelo,pista de entren.,horas (acum.),pistas vistas en entren.,retorno original,retorno nueva
+base,original,1.72,2346,871 ± 24,281 ± 40
+scratch,nueva,2.17,2570,447 ± 38,857 ± 23
+finetune,nueva,3.89,2363,608 ± 58,857 ± 28
+lstm,original,2.17,899,885 ± 16,371 ± 39
+mix,mezcla,1.91,2439,835 ± 39,817 ± 24

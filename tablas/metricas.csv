@@ -1,0 +1,13 @@
+modelo,pista,vuelta completa (%),pista >= 90% (%),% de pista,tiempo de vuelta (s)
+random,original,0.0,0.0,7.5,
+random,nueva,0.0,0.0,8.2,
+base,original,53.0,90.0,95.7,14.8
+base,nueva,0.0,1.0,33.1,
+scratch,original,2.0,5.0,54.4,17.8
+scratch,nueva,46.0,82.0,93.7,13.5
+finetune,original,14.0,38.0,70.7,17.8
+finetune,nueva,53.0,83.0,93.7,13.0
+lstm,original,58.0,93.0,96.8,15.0
+lstm,nueva,0.0,2.0,43.2,
+mix,original,54.0,84.0,92.1,15.0
+mix,nueva,20.0,73.0,90.7,15.3
