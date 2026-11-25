@@ -1,3 +1,5 @@
+"""PPO training script for the custom CarRacing tracks."""
+
 # Based on ppo.py (CleanRL). Hyperparameters follow the RL Zoo PPO config for CarRacing-v3:
 # https://github.com/DLR-RM/rl-baselines3-zoo/blob/master/hyperparams/ppo.yml
 import os

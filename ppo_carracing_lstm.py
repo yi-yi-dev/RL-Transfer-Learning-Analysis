@@ -1,3 +1,5 @@
+"""PPO + LSTM training script (several attempts per track)."""
+
 # Based on ppo.py (CleanRL). Hyperparameters follow the RL Zoo PPO config for CarRacing-v3:
 # https://github.com/DLR-RM/rl-baselines3-zoo/blob/master/hyperparams/ppo.yml
 # The LSTM part follows ppo_atari_lstm.py (CleanRL).
