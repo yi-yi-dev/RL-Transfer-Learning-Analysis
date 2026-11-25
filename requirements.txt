@@ -3,6 +3,7 @@
 box2d-py==2.3.8
 gymnasium==1.4.0
 ImageIO==2.38.2
+ipywidgets==8.1.9
 jupyter==1.1.1
 matplotlib==3.11.2
 nbconvert==7.17.2
